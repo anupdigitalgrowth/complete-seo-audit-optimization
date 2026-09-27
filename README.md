@@ -18,7 +18,7 @@
 
 ## 🌐 Website
 
-- **Target URL:** `[ADD WEBSITE URL HERE]`
+- **Target URL:** [https://idg.indiandigitalgrowth.workers.dev/](https://idg.indiandigitalgrowth.workers.dev/)
 - **Industry / Niche:** `[ADD INDUSTRY / NICHE]`
 - **CMS / Tech Stack:** `[ADD CMS (e.g., WordPress, Next.js, Shopify, Custom HTML)]`
 
@@ -139,6 +139,6 @@ Reporting
 
 ## 🔗 Links
 
-- **Website:** `[ADD URL]`
+- **Website:** [https://idg.indiandigitalgrowth.workers.dev/](https://idg.indiandigitalgrowth.workers.dev/)
 - **Portfolio:** `[ADD PORTFOLIO URL]`
 - **LinkedIn:** `[ADD LINKEDIN PROFILE URL]`

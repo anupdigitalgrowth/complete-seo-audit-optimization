@@ -13,7 +13,7 @@ This project serves as a comprehensive, practical demonstration of technical SEO
 | Field | Details |
 |---|---|
 | **Website Name** | Indian Digital Growth |
-| **Website URL** | [https://indiandigitalgrowth.com](https://indiandigitalgrowth.com) |
+| **Website URL** | [https://idg.indiandigitalgrowth.workers.dev/](https://idg.indiandigitalgrowth.workers.dev/) |
 | **Project Type** | Personal Project |
 | **Industry** | Web Development / Digital Services |
 | **Target Audience** | Local Businesses & Startups |
