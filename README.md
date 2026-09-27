@@ -140,5 +140,5 @@ Reporting
 ## 🔗 Links
 
 - **Website:** [https://idg.indiandigitalgrowth.workers.dev/](https://idg.indiandigitalgrowth.workers.dev/)
-- **Portfolio:** `[ADD PORTFOLIO URL]`
-- **LinkedIn:** `[ADD LINKEDIN PROFILE URL]`
+- **Portfolio:** [https://anupdigitalgrowth.github.io/Anup-kumar-singh/](https://anupdigitalgrowth.github.io/Anup-kumar-singh/)
+- **LinkedIn:** [https://www.linkedin.com/in/ak-neteng/](https://www.linkedin.com/in/ak-neteng/)
